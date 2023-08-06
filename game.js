@@ -21,7 +21,8 @@ function update() {
 
     // Kodut tuk se izpulnqva (okolo) 100 puti v sekunda
 
-    myY = myY + myYDelta;
+        myY = myY + myYDelta;
+    
 
     if (isKeyPressed[68]) {
         myX = myX + 3;
