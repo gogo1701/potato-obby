@@ -17,7 +17,7 @@ function update() {
         skok = true;
         doubleSkok = true;
         myY--;
-    }
+    } else {skok = false}
 
     // Kodut tuk se izpulnqva (okolo) 100 puti v sekunda
 
