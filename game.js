@@ -1,4 +1,5 @@
-// Suzdavame promenlivi
+
+//djifdsifji// Suzdavame promenlivi
 let myX, myY, myYDelta, skok, doubleSkok;
 function nivo()  {
     //suzdavane na nivo
