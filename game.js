@@ -1,6 +1,6 @@
 // Suzdavame promenlivi
 let myX, myY, myYDelta, skok, doubleSkok;
-function nivo()  {
+function nivo(platBroi,platX,platY)  {
     //suzdavane na nivo
 }
 function init() {
@@ -17,7 +17,7 @@ function update() {
         skok = true;
         doubleSkok = true;
         myY--;
-    } else {skok = false}
+    }
 
     // Kodut tuk se izpulnqva (okolo) 100 puti v sekunda
 
